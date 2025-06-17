@@ -13,3 +13,4 @@ function customError(): never {
 console.log("------------Basic 4------------");
 showMessage("Good!");
 console.log("🚀 ~ calc(5, 3);:", calc(5, 3));
+console.log("🚀 ~ customError ~ customError:", customError);
